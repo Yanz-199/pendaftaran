@@ -16,7 +16,7 @@
 - canva
 
 ## 🌟 Featured Projects
-- [pendaftaran](https://github.com/Yanz-199/pendaftaran) — Sistem pendaftaran yang sederhana dan efisien.
+- [pendaftaran](https://yanz-199.github.io/pendaftaran/) — Sistem pendaftaran yang sederhana dan efisien.
 
 
 ## ✨ Bio & Fun Fact
