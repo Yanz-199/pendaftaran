@@ -2,6 +2,7 @@
 
 ## 🚀 Profession
 **Software Developer**  
+**Desainer**
 (Feel free to update this if your role is different!)
 
 ## 🛠️ Top Skills & Technologies
@@ -9,20 +10,24 @@
 - JavaScript
 - React
 - Node.js
-- (Tambahkan atau edit sesuai keahlian Anda!)
+- css
+- html
+- capcut
+- canva
 
 ## 🌟 Featured Projects
 - [pendaftaran](https://github.com/Yanz-199/pendaftaran) — Sistem pendaftaran yang sederhana dan efisien.
-- (Tambahkan project lain yang ingin Anda tampilkan!)
+
 
 ## ✨ Bio & Fun Fact
 Saya adalah seorang developer yang suka belajar hal baru, terutama di bidang web dan otomasi. Motivasi saya adalah membuat solusi yang sederhana namun impactful untuk kehidupan sehari-hari.  
 Di luar coding, saya menikmati musik dan eksplorasi teknologi terbaru.
 
 ## 📫 Connect with Me
-- [LinkedIn](#) (tambahkan link Anda)
-- [Twitter](#)
-- (Personal Website jika ada)
+- [Instagram](#) (https://www.instagram.com/mhmmd_ryanchild?igsh=MW5lZ3U0bThuM2xjcw==)
+- [Tiktok](#) (http://tiktok.com/@yanstoriess_)
+- [Facebook](#) (https://www.facebook.com/share/1GTLtn1fy9/)
+
 
 ## 🏆 Badges & Stats
 
